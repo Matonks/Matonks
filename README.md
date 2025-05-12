@@ -1,8 +1,13 @@
 # 👋 Hello, World!
 
-### 🎨 Techincal Video Editor | 🧠 Developer | 🛠 Code + Design
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&width=435&lines=Creative+Technologist;Technical+Video+Editor+%2B+Dev;Code+%2B+Design+%2B+Automation)](https://git.io/typing-svg)
 
-What's up — I build things that blend **functionality**, **aesthetics**, and **automation**.
+---
+
+### 🎨 Technical Video Editor | 🧠 Developer | 🛠 Code + Design
+
+What's up — I build things that blend **functionality**, **aesthetics**, and **automation**.  
+I love shipping small tools that solve creative problems with elegant solutions.
 
 ---
 
@@ -24,15 +29,18 @@ What's up — I build things that blend **functionality**, **aesthetics**, and *
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matonks&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matonks&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Matonks&theme=tokyonight)
 
+---
 
-### 🧪 Random Dev Fun
+## 🧪 Random Dev Fun
+
 ```js
 const developer = {
   code: ["Python", "JavaScript", "HTML/CSS"],
-  design: ["Figma", "Notion", "Affinity"],
+  design: ["Figma", "Notion", "Adobe"],
   loves: ["Automation", "Aesthetics", "Clean Code"],
   learning: ["AI", "LLMs", "Prompt Engineering"]
 }
