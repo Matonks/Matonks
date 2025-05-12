@@ -1,5 +1,3 @@
-# 👋 Hello, World!
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&width=435&lines=Creative+Technologist;Technical+Video+Editor+%2B+Dev;Code+%2B+Design+%2B+Automation)](https://git.io/typing-svg)
 
 ---
